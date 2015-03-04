@@ -2,7 +2,7 @@
 
 
 
-git 'checkout -- namaFile'   = untuk me rollback file sebelom d commit add
+# git 'checkout -- namaFile'   = untuk me rollback file sebelom d commit add
 git commit -m "pesan"  = commit beserta pesanya
 git commit -am  "pesan" = commit jika ada error2 yg aneh/commit directly
 git status = untuk meliat status git, ada perubahan endak
